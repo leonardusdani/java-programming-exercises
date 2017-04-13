@@ -1,0 +1,7 @@
+makan : eat
+lari : run
+baca : read
+tulis : write
+makan : eatmakan : eat
+nyanyi : sing
+jalan : walk

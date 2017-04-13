@@ -1,0 +1,6 @@
+1.View all vocabulary
+2.Search vocabulary by keyword
+3.View vocabulary by limit items
+4.Add vocabulary
+5.Exit
+6.Secret
