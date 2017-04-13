@@ -1,18 +1,18 @@
-# Java Programming Exercises
+# Final Test for Java Lambda, Stream and File IO
 
-The exercises is organize into separate maven projects for each topics in training material:
+In this final test I build a simple application for storing vocabulary and the translation between English and Bahasa Indonesia. It has 5 main menu:
 
 ```
-- data-type
-  - src
-  - pom.xml
-- thread
-  - src
-  - pom.xml
+- View all vocabulary
+- Search vocabulary by keyword
+- View vocabulary by limit items
+- Add vocabulary
+- Exit
 ```
 
-## To contribute:
+## How to execute:
 
-1. Fork this repository
-2. Create new branch from develop
-3. Create Pull Request to develop branch on this repository
+1. Please make sure you already install maven on you computer
+2. Change to root directory of the project
+3. Run `mvn package` or `mvn test` to build the project and run unit testing
+4. Run `mvn exec:java -Dexec.mainClass="com.exercise.MainClass` to run the project.
