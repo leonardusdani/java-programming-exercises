@@ -5,3 +5,4 @@ tulis : write
 makan : eatmakan : eat
 nyanyi : sing
 jalan : walk
+makan : eat

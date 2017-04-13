@@ -15,4 +15,4 @@ In this final test I build a simple application for storing vocabulary and the t
 1. Please make sure you already install maven on you computer
 2. Change to root directory of the project
 3. Run `mvn package` or `mvn test` to build the project and run unit testing
-4. Run `mvn exec:java -Dexec.mainClass="com.exercise.MainClass` to run the project.
+4. Run `mvn exec:java -Dexec.mainClass="com.exercise.MainClass"` to run the project.
